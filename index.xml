@@ -4,7 +4,7 @@
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
 <info>
 <title>kafka-examples (0.0.1)</title>
-<date>2018-08-06 04:38:26 UTC</date>
+<date>2018-08-06 04:39:40 UTC</date>
 <author>
 <personname>
 <firstname>Maksim</firstname>
@@ -16,7 +16,7 @@
 <revhistory>
 <revision>
 <revnumber>0.0.1</revnumber>
-<date>2018-08-06 04:38:26 UTC</date>
+<date>2018-08-06 04:39:40 UTC</date>
 <authorinitials>MK</authorinitials>
 </revision>
 </revhistory>
@@ -41,7 +41,7 @@
 <screen>curl -s 'https://get.sdkman.io' | zsh
 source ${HOME}/.sdkman/bin/sdkman-init.sh
 sdk install springboot 2.0.4.RELEASE
-spring install install org.springframework.cloud:spring-cloud-cli:2.0.0.RELEASE
+spring install org.springframework.cloud:spring-cloud-cli:2.0.0.RELEASE
 spring cloud kafka</screen>
 </para>
 </formalpara>
