@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?asciidoc-toc maxdepth="4"?>
+<?asciidoc-toc?>
 <?asciidoc-numbered?>
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
 <info>
 <title>kafka-examples (0.0.1)</title>
-<date>2023-08-14 22:24:49 UTC</date>
-<author>
-<personname>
-<firstname>Maksim</firstname>
-<surname>Kostromin</surname>
-</personname>
-<email>daggerok@gmail.com</email>
-</author>
-<authorinitials>MK</authorinitials>
-<revhistory>
-<revision>
-<revnumber>0.0.1</revnumber>
-<date>2023-08-14 22:24:49 UTC</date>
-<authorinitials>MK</authorinitials>
-</revision>
-</revhistory>
+<date>2023-08-14</date>
 </info>
 <preface>
 <title></title>
+<simpara>Maksim Kostromin &lt;<link xl:href="mailto:daggerok@gmail.com">daggerok@gmail.com</link>&gt;
+2023-08-14 22:29:04 UTC
+:docinfo:
+:doctype: book
+:toc: left
+:toclevels: 4
+:numbered:
+:icons: font
+:hide-uri-scheme:
+:revnumber: 0.0.1
+:example-caption!:
+:source-highlighter: highlightjs</simpara>
 <simpara>Travis CI status:
 <inlinemediaobject>
 <imageobject>
-<imagedata fileref="https://travis-ci.org/daggerok/kafka-examples.svg?branch=master"/>
+<imagedata fileref="https://github.com/daggerok/kafka-examples/actions/workflows/docker-tests.yml/badge.svg"/>
 </imageobject>
 <textobject><phrase>Build Status</phrase></textobject>
 </inlinemediaobject></simpara>
