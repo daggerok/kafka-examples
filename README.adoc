@@ -1,10 +1,4 @@
-= kafka-examples image:https://travis-ci.org/daggerok/kafka-examples.svg?branch=master["Build Status", link="https://travis-ci.org/daggerok/kafka-examples"]
-
-////
-image:https://travis-ci.org/daggerok/kafka-examples.svg?branch=master["Build Status", link="https://travis-ci.org/daggerok/kafka-examples"]
-image:https://gitlab.com/daggerok/kafka-examples/badges/master/build.svg["Build Status", link="https://gitlab.com/daggerok/kafka-examples/-/jobs"]
-image:https://img.shields.io/bitbucket/pipelines/daggerok/kafka-examples.svg["Build Status", link="https://bitbucket.com/daggerok/kafka-examples"]
-////
+= kafka-examples image:https://github.com/daggerok/kafka-examples/actions/workflows/docker-tests.yml/badge.svg["Build Status", link="https://github.com/daggerok/kafka-examples/actions/workflows/docker-tests.yml"]
 
 //tag::content[]
 
