@@ -9,7 +9,7 @@
 <preface>
 <title></title>
 <simpara>Maksim Kostromin &lt;<link xl:href="mailto:daggerok@gmail.com">daggerok@gmail.com</link>&gt;
-2023-08-14 22:30:22 UTC
+2023-08-14 22:32:48 UTC
 :docinfo:
 :doctype: book
 :toc: left
@@ -20,7 +20,7 @@
 :revnumber: 0.0.1
 :example-caption!:
 :source-highlighter: highlightjs</simpara>
-<simpara>Travis CI status:
+<simpara>GitHub Actions CI status:
 <inlinemediaobject>
 <imageobject>
 <imagedata fileref="https://github.com/daggerok/kafka-examples/actions/workflows/docker-tests.yml/badge.svg"/>
